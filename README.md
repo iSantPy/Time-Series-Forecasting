@@ -1,4 +1,4 @@
-# Time-Series-Foreccasting
+# Time-Series-Forecasting
 Time Series Forecasting is an exciting branch in statistics that can help us face the uncertainty of the future. In business, AI, sports, and more,
 you can apply classical models to forecast important features.
 
